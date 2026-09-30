@@ -12,4 +12,4 @@ More projects and datasets may be added over time.
 
 Many of the datasets used in these projects are available through **Kaggle**, which is also a useful platform for finding datasets and exploring other data analytics projects.
 
-[**Kaggle**](https://www.kaggle.com/)
+https://www.kaggle.com/datasets
